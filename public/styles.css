@@ -1,0 +1,45 @@
+:root{
+  margin: auto;
+  text-align: center;
+  background-color: pink;
+  min-height: 100vh;
+  font-family:  sans-serif 'Times New Roman', Times, serif;
+  padding-top: 8rem;
+}
+
+h1{
+  color: rebeccapurple;
+}
+
+h3{
+  color: brown;
+}
+
+button{
+  background-color: purple;
+  color:#fff;
+  font-size: 16px;
+  padding: 10px;
+  border: none;
+  border-radius: 0.6rem;
+  cursor: pointer;
+}
+
+.main-card{
+  background-color: white;
+  margin-top: 20rem;
+  height: 400px;
+  width: 500px;
+  margin: auto;
+  border-radius: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error{
+  text-align: center;
+  color: red;
+  font-size: 1rem;
+  margin: 1rem;
+}
